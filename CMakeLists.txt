@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.21)
+project(test)
+file(GLOB_RECURSE SRC "${PROJECT_SOURCE_DIR}/Main.cc", "${PROJECT_SOURCE_DIR}/Basil/Basil.cc", "${PROJECT_SOURCE_DIR}/ImGui/*.cpp")
+add_executable(${PROJECT_NAME} ${SRC})
+set_property(TARGET ${PROJECT_NAME} PROPERTY CXX_STANDARD 20)
+set_property(TARGET ${PROJECT_NAME} PROPERTY CXX_STANDARD_REQUIRED ON)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)

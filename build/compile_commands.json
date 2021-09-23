@@ -1,0 +1,42 @@
+[
+{
+  "directory": "C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\Preview\\VC\\Tools\\MSVC\\1430~1.304\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++20 /FoCMakeFiles\\test.dir\\Basil\\Basil.cc.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\Basil\\Basil.cc\"",
+  "file": "C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\Basil\\Basil.cc"
+},
+{
+  "directory": "C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\Preview\\VC\\Tools\\MSVC\\1430~1.304\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++20 /FoCMakeFiles\\test.dir\\ImGui\\imgui.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui.cpp\"",
+  "file": "C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui.cpp"
+},
+{
+  "directory": "C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\Preview\\VC\\Tools\\MSVC\\1430~1.304\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++20 /FoCMakeFiles\\test.dir\\ImGui\\imgui_draw.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui_draw.cpp\"",
+  "file": "C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui_draw.cpp"
+},
+{
+  "directory": "C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\Preview\\VC\\Tools\\MSVC\\1430~1.304\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++20 /FoCMakeFiles\\test.dir\\ImGui\\imgui_impl_dx9.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui_impl_dx9.cpp\"",
+  "file": "C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui_impl_dx9.cpp"
+},
+{
+  "directory": "C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\Preview\\VC\\Tools\\MSVC\\1430~1.304\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++20 /FoCMakeFiles\\test.dir\\ImGui\\imgui_impl_win32.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui_impl_win32.cpp\"",
+  "file": "C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui_impl_win32.cpp"
+},
+{
+  "directory": "C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\Preview\\VC\\Tools\\MSVC\\1430~1.304\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++20 /FoCMakeFiles\\test.dir\\ImGui\\imgui_tables.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui_tables.cpp\"",
+  "file": "C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui_tables.cpp"
+},
+{
+  "directory": "C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\Preview\\VC\\Tools\\MSVC\\1430~1.304\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++20 /FoCMakeFiles\\test.dir\\ImGui\\imgui_widgets.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui_widgets.cpp\"",
+  "file": "C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\ImGui\\imgui_widgets.cpp"
+},
+{
+  "directory": "C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\Preview\\VC\\Tools\\MSVC\\1430~1.304\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd -std:c++20 /FoCMakeFiles\\test.dir\\Main.cc.obj /FdTARGET_COMPILE_PDB /FS -c \"C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\Main.cc\"",
+  "file": "C:\\Users\\Playboi Carti\\Desktop\\Github\\C_20 - Gamehacking external (CSGO)\\Main.cc"
+}
+]

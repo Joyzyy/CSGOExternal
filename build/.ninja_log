@@ -1,0 +1,11 @@
+# ninja log v5
+1405	2223	6540229707414972	CMakeFiles/test.dir/ImGui/imgui_widgets.cpp.obj	ff9b8a14c2c19eab
+1	2254	6540928810109409	CMakeFiles/test.dir/Main.cc.obj	28b4db03829fb036
+45	1967	6540229704762075	CMakeFiles/test.dir/ImGui/imgui_impl_dx9.cpp.obj	39cb4e922bde942f
+2254	3896	6540928822665934	test.exe	6bb6ca7a10ed5e15
+87	1391	6540229698698295	CMakeFiles/test.dir/ImGui/imgui_tables.cpp.obj	678ed8e5328cfe01
+1392	2416	6540229709399912	CMakeFiles/test.dir/ImGui/imgui_impl_win32.cpp.obj	507890007247f75c
+36	1404	6540229699067306	CMakeFiles/test.dir/ImGui/imgui_draw.cpp.obj	965f7bf98c4f2f2f
+41	1940	6540229704492800	CMakeFiles/test.dir/ImGui/imgui.cpp.obj	8138d53dbf21ec00
+1	1516	6540237129629979	CMakeFiles/test.dir/Basil/Basil.cc.obj	46b05f393b8cfee1
+1	2631	6540897373338896	CMakeFiles/test.dir/proof/main.cc.obj	ad1d2afa6579234c

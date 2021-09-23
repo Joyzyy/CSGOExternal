@@ -1,0 +1,3 @@
+C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build/CMakeFiles/test.dir
+C:/Users/Playboi Carti/Desktop/Github/C_20 - Gamehacking external (CSGO)/build/CMakeFiles/edit_cache.dir
