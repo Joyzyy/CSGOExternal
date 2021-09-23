@@ -10,7 +10,7 @@
 
 #define NOMINMAX
 
-namespace Basil {
+namespace Basil { // https://github.com/cristeigabriel/basil
 
 
     namespace Detail {
